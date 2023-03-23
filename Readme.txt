@@ -4,6 +4,8 @@ Download MNIST-c and IMDB datasets as per instructions below.
 ================
 Requirements
 ================
+The main depedencies can be installed via `pip install -r requirements.txt`.
+______________________________
 Python 3.7.x, https://www.python.org/
 Numpy, http://www.numpy.org/
 PyCUDA, https://documen.tician.de/pycuda/
